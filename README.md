@@ -1,11 +1,11 @@
 简体中文 | [English](./README_EN.md)
 
 <p>
-<strong><h2>無名の主页</h2></strong>
+<strong><h2>轻谈の浅唱</h2></strong>
 简单的小主页，原来的看够了，重新弄了一个
 </p>
 
-![轻谈の浅唱](![image](https://user-images.githubusercontent.com/77466712/173851014-9a832497-abe3-4ce2-bd33-b6e8ecd5fa27.png))
+![轻谈の浅唱](https://user-images.githubusercontent.com/77466712/173851014-9a832497-abe3-4ce2-bd33-b6e8ecd5fa27.png)
 
 >主页的 Logo 字体已经过压缩，若用本站 Logo 以外的字母会变回默认字体，这里是 [完整字体](https://file.imsyy.top/font/Pacifico-Regular.ttf)
 
